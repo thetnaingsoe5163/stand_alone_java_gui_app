@@ -1,4 +1,4 @@
 # stand_alone_java_app
 
 In this repo, you can find java stand alone gui applications.
-You just need to download these archived files, extract and run in your windows.
+Size to make apps deployable is around 300mb. So, source code will be here and you can download from the link shown below.
