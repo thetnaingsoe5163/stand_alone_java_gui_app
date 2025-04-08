@@ -5,4 +5,4 @@ Size to make apps deployable is around 300mb. So, source code will be here and y
 
 https://drive.google.com/drive/folders/1ij_9xKSpTr-GFXNqWOs_YaKjqCa7tTs5?usp=drive_link
 
-I also show how each apps look like in photo directory.
+I also showed how each app looks like in photo directory.
